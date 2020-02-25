@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://walkccc.github.io/CLRS/"><img src="./docs/assets/cover.png" height="200" title="CLRS" alt="CLRS"></a>
+  <a href="https://extrovert7986.github.io/CLRS/"><img src="./docs/assets/cover.png" height="200" title="CLRS" alt="CLRS"></a>
 </p>
 
 <p align="center">
